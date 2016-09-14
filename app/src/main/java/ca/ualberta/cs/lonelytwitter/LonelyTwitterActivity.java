@@ -40,7 +40,7 @@ public class LonelyTwitterActivity extends Activity {
 				setResult(RESULT_OK);
 				String text = bodyText.getText().toString();
 
-				Tweet newtweet = new Tweet(text);
+				Tweet newtweet = new NormalTweet(text);
 				try {
 					newtweet.setMessage("Another Message");
 				} catch (TweetToLongException e) {

@@ -5,9 +5,10 @@ import java.util.Date;
 /**
  * Created by drei on 2016-09-13.
  */
-public class Tweet {
+public abstract class Tweet {
     private String message;
     private Date date;
+    public abstract Boolean isImportant();
 
     public Tweet(String message) {
         this.message = message;
@@ -17,6 +18,8 @@ public class Tweet {
         this.message = message;
         this.date = date;
     }
+
+
 
     public String getMessage() {
         return message;
