@@ -5,7 +5,7 @@ import java.util.Date;
 /**
  * Created by drei on 2016-09-13.
  */
-public class HappyMood extends CurrentMood implements Moodable {
+public class HappyMood extends CurrentMood {
     private String mood = "Happy Mood";
 
     public HappyMood() {
