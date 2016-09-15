@@ -9,7 +9,7 @@ import java.util.Date;
 public abstract class Tweet {
     private String message;
     private Date date;
-    private ArrayList<CurrentMood> moodList;
+    private ArrayList<CurrentMood> moodList = new ArrayList<CurrentMood>();
     public abstract Boolean isImportant();
 
     public Tweet(String message) {
