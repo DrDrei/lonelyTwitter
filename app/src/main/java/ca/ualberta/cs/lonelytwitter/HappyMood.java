@@ -3,15 +3,23 @@ package ca.ualberta.cs.lonelytwitter;
 import java.util.Date;
 
 /**
- * Created by drei on 2016-09-13.
+ * The type Happy mood.
  */
 public class HappyMood extends CurrentMood {
     private String mood = "Happy Mood";
 
+    /**
+     * Instantiates a new Happy mood.
+     */
     public HappyMood() {
         super();
     }
 
+    /**
+     * Instantiates a new Happy mood.
+     *
+     * @param date the date
+     */
     public HappyMood(Date date) {
         super(date);
     }

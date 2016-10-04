@@ -2,16 +2,25 @@ package ca.ualberta.cs.lonelytwitter;
 
 import java.util.Date;
 
+
 /**
- * Created by drei on 2016-09-13.
+ * The type Angry mood extends CurrentMood
  */
 public class AngryMood extends CurrentMood {
     private String mood = "Angry Mood";
 
+    /**
+     * Instantiates a new Angry mood.
+     */
     public AngryMood() {
         super();
     }
 
+    /**
+     * Instantiates a new Angry mood.
+     *
+     * @param date the date
+     */
     public AngryMood(Date date) {
         super(date);
     }
