@@ -29,4 +29,8 @@ public class HappyMood extends CurrentMood {
         return mood;
     }
 
+    public void testing() {
+
+    }
+
 }

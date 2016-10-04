@@ -38,6 +38,7 @@ public abstract class Tweet {
     public Tweet(String message, Date date) {
         this.message = message;
         this.date = date;
+
     }
 
     /**
