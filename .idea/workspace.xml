@@ -2,10 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cb409d8-efcd-4629-9272-66d479e5a705" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/HappyMood.java" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/HappyMood.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/androidTest/java/ca/ualberta/cs/lonelytwitter/packageinfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allclasses-frame.html" afterPath="$PROJECT_DIR$/allclasses-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allclasses-noframe.html" afterPath="$PROJECT_DIR$/allclasses-noframe.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/Tweet.java" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/Tweet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/AngryMood.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/AngryMood.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/BuildConfig.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/BuildConfig.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/CurrentMood.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/CurrentMood.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/HappyMood.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/HappyMood.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/ImportantTweet.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/ImportantTweet.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivityTest.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivityTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/NormalTweet.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/NormalTweet.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/R.attr.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/R.attr.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/R.color.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/R.color.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/R.drawable.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/R.drawable.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/R.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/R.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/R.id.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/R.id.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/R.integer.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/R.integer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/R.layout.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/R.layout.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/R.string.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/R.string.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/R.styleable.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/R.styleable.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/Tweet.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/Tweet.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/TweetList.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/TweetList.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/TweetListTest.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/TweetListTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/TweetToLongException.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/TweetToLongException.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/Tweetable.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/Tweetable.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/package-frame.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/package-summary.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/package-tree.html" afterPath="$PROJECT_DIR$/ca/ualberta/cs/lonelytwitter/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/constant-values.html" afterPath="$PROJECT_DIR$/constant-values.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deprecated-list.html" afterPath="$PROJECT_DIR$/deprecated-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/help-doc.html" afterPath="$PROJECT_DIR$/help-doc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-files/index-1.html" afterPath="$PROJECT_DIR$/index-files/index-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-files/index-10.html" afterPath="$PROJECT_DIR$/index-files/index-10.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-files/index-11.html" afterPath="$PROJECT_DIR$/index-files/index-11.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-files/index-12.html" afterPath="$PROJECT_DIR$/index-files/index-12.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-files/index-13.html" afterPath="$PROJECT_DIR$/index-files/index-13.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-files/index-14.html" afterPath="$PROJECT_DIR$/index-files/index-14.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-files/index-15.html" afterPath="$PROJECT_DIR$/index-files/index-15.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-files/index-16.html" afterPath="$PROJECT_DIR$/index-files/index-16.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-files/index-2.html" afterPath="$PROJECT_DIR$/index-files/index-2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-files/index-3.html" afterPath="$PROJECT_DIR$/index-files/index-3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-files/index-4.html" afterPath="$PROJECT_DIR$/index-files/index-4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-files/index-5.html" afterPath="$PROJECT_DIR$/index-files/index-5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-files/index-6.html" afterPath="$PROJECT_DIR$/index-files/index-6.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-files/index-7.html" afterPath="$PROJECT_DIR$/index-files/index-7.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-files/index-8.html" afterPath="$PROJECT_DIR$/index-files/index-8.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-files/index-9.html" afterPath="$PROJECT_DIR$/index-files/index-9.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/overview-tree.html" afterPath="$PROJECT_DIR$/overview-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serialized-form.html" afterPath="$PROJECT_DIR$/serialized-form.html" />
     </list>
     <ignored path="lonelyTwitter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,8 +92,8 @@
       <file leaf-file-name="AngryMood.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/AngryMood.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <state relative-caret-position="360">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -61,19 +109,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LonelyTwitterActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LonelyTwitterActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+            <state relative-caret-position="135">
+              <caret line="91" column="36" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="docComment;method#onCreate#0;class#LonelyTwitterActivity#0" expanded="false" />
                 <element signature="method#onCreate#0;class#LonelyTwitterActivity#0" expanded="false" />
                 <element signature="method#onStart#0;class#LonelyTwitterActivity#0" expanded="false" />
-                <element signature="method#loadFromFile#0;class#LonelyTwitterActivity#0" expanded="false" />
                 <element signature="method#saveInFile#0;class#LonelyTwitterActivity#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="packageinfo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/ca/ualberta/cs/lonelytwitter/packageinfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="60" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1730,6 +1787,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/HappyMood.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/Tweet.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/ca/ualberta/cs/lonelytwitter/packageinfo.java" />
       </list>
     </option>
   </component>
@@ -1843,6 +1901,10 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lonelytwitter" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1886,7 +1948,7 @@
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="java&#9;ACTION&#9;GenerateJavadoc&#10;javadoc&#9;ACTION&#9;GenerateJavadoc" />
   </component>
@@ -2217,7 +2279,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -2369,14 +2431,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/AngryMood.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/NormalTweet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -2385,18 +2439,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-18/android.jar!/android/app/Activity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/AngryMood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        <state relative-caret-position="135">
+          <caret line="91" column="36" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="docComment;method#onCreate#0;class#LonelyTwitterActivity#0" expanded="false" />
             <element signature="method#onCreate#0;class#LonelyTwitterActivity#0" expanded="false" />
             <element signature="method#onStart#0;class#LonelyTwitterActivity#0" expanded="false" />
-            <element signature="method#loadFromFile#0;class#LonelyTwitterActivity#0" expanded="false" />
             <element signature="method#saveInFile#0;class#LonelyTwitterActivity#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/ca/ualberta/cs/lonelytwitter/packageinfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="60" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
+          <folding />
         </state>
       </provider>
     </entry>
