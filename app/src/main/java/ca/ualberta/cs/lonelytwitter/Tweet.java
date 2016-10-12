@@ -1,5 +1,6 @@
 package ca.ualberta.cs.lonelytwitter;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Date;
 import java.lang.String;
@@ -7,7 +8,7 @@ import java.lang.String;
 /**
  * The type Tweet.
  */
-public abstract class Tweet {
+public abstract class Tweet implements Serializable{
     private String message;
     private Date date;
     private ArrayList<CurrentMood> moodList = new ArrayList<CurrentMood>();
