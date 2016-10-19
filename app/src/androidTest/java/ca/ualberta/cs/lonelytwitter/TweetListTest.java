@@ -2,79 +2,42 @@ package ca.ualberta.cs.lonelytwitter;
 
 import android.test.ActivityInstrumentationTestCase2;
 
-import java.util.Iterator;
-
 /**
- * Created by drei on 2016-09-27.
+ * Created by makepeac on 9/29/16.
  */
+public class TweetListTest extends ActivityInstrumentationTestCase2 {
 
-public class TweetListTest extends ActivityInstrumentationTestCase2<LonelyTwitterActivity> {
-    public TweetListTest() {
-        super(LonelyTwitterActivity.class);
+    public TweetListTest(){
+        super(ca.ualberta.cs.lonelytwitter.LonelyTwitterActivity.class);
     }
 
-    public void testAddTweet() {
-        TweetList list = new TweetList();
-        Tweet tweet = new NormalTweet("Hello!");
-        list.addTweet(tweet);
-        assertTrue(list.hasTweet(tweet));
+    public void testAddTweet(){
+        TweetList tweets = new TweetList();
+        Tweet tweet = new NormalTweet("adding tweet");
+        tweets.add(tweet);
+        assertTrue(tweets.hasTweet(tweet));
     }
 
-    public void testHasTweet() {
+    public void testDelete(){
         TweetList list = new TweetList();
-        Tweet tweet = new NormalTweet("Hello!");
-        assertFalse(list.hasTweet(tweet));
-        list.addTweet(tweet);
-        assertTrue(list.hasTweet(tweet));
-    }
-
-    public void testGetTweet() {
-        TweetList list = new TweetList();
-        Tweet tweet = new NormalTweet("Hello!");
-        Tweet tweet2 = new NormalTweet("Hi!");
-        list.addTweet(tweet);
-        list.addTweet(tweet2);
-
-        assertEquals(tweet, list.getTweet(0));
-        assertEquals(tweet2, list.getTweet(1));
-    }
-
-    public void testDeleteTweet() {
-        TweetList list = new TweetList();
-        Tweet tweet = new NormalTweet("Hello!");
-        Tweet tweet2 = new NormalTweet("Hi!");
-
-        list.addTweet(tweet);
-
-        assertTrue(list.hasTweet(tweet));
-        list.deleteTweet(tweet);
+        Tweet tweet = new NormalTweet("test");
+        list.add(tweet);
+        list.delete(tweet);
         assertFalse(list.hasTweet(tweet));
     }
 
-    public void testTweets() {
-        TweetList list = new TweetList();
-        Tweet tweet = new NormalTweet("Hello!");
-        Tweet tweet2 = new NormalTweet("Hi!");
-        Tweet tweet3 = new NormalTweet("Yo!");
-        list.addTweet(tweet);
-        list.addTweet(tweet2);
-        list.addTweet(tweet3);
-        Integer index = 0;
-        Iterator iter = list.getIterator();
-        for(Iterator<Tweet> each = list.getIterator(); each.hasNext();) {
-            assertEquals(each.next(), list.getTweets().get(index));
-            index += 1;
-        }
+    public void testGetTweet(){
+        TweetList tweets = new TweetList(); //
+        Tweet tweet = new NormalTweet("test");
+        tweets.add(tweet);
+        Tweet returnedTweet = tweets.getTweet(0);
+        assertEquals(returnedTweet.getMessage(), tweet.getMessage());
     }
 
-    public void testTweetCount() {
+    public void testHasTweet(){
         TweetList list = new TweetList();
-        Tweet tweet = new NormalTweet("Hello!");
-        Tweet tweet2 = new NormalTweet("Hi!");
-        Tweet tweet3 = new NormalTweet("Yo!");
-        list.addTweet(tweet);
-        list.addTweet(tweet2);
-        list.addTweet(tweet3);
-        assertEquals(3, list.getCount());
+        Tweet tweet = new NormalTweet("test");
+        list.add(tweet);
+        assertTrue(list.hasTweet(tweet));
     }
 }

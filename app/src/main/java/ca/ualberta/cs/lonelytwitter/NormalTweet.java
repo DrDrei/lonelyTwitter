@@ -1,14 +1,7 @@
 package ca.ualberta.cs.lonelytwitter;
 
-/**
- * Created by drei on 2016-09-13.
- */
-public class NormalTweet extends Tweet implements Tweetable {
-    /**
-     * Instantiates a new Normal tweet.
-     *
-     * @param message the message
-     */
+public class NormalTweet extends Tweet {
+
     public NormalTweet(String message) {
         super(message);
     }
@@ -18,4 +11,3 @@ public class NormalTweet extends Tweet implements Tweetable {
         return Boolean.FALSE;
     }
 }
-
